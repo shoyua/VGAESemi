@@ -3,7 +3,7 @@
 <h1>CVAESemi: Conditional Generative Learning For Semi-supervised Graph Learning </h1>
 
 
-Implementation for our paper submitted to AAAI'24. 
+Implementation for our paper "CVAESemi: Conditional Generative Learning For Semi-supervised Graph Learning". 
 
 
 <h2>Dependencies </h2>
