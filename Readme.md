@@ -1,9 +1,9 @@
 <hr>
 
-<h1>CVAESemi: Conditional Generative Learning For Semi-supervised Graph Learning </h1>
+<h1>Efficient Semi-Supervised Node Classification with Comprehensive Graph Data Utilization </h1>
 
 
-Implementation for our paper "CVAESemi: Conditional Generative Learning For Semi-supervised Graph Learning". 
+Implementation for our paper "Efficient Semi-Supervised Node Classification with Comprehensive Graph Data Utilization". 
 
 
 <h2>Dependencies </h2>
